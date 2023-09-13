@@ -112,7 +112,7 @@ int main() {
     printf("\nÁrvore 3 em ordem: ");
     print(root3);
     printf("\n");
-    root2 = invertTree(root3);
+    root3 = invertTree(root3);
 
     printf("Árvore 3 invertida: ");
     print(root3);
